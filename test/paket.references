@@ -1,0 +1,5 @@
+Expecto
+Expecto.FsCheck
+YoloDev.Expecto.TestSdk
+Microsoft.NET.Test.Sdk
+FSharp.Core
